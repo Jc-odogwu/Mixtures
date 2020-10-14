@@ -1,7 +1,4 @@
 # Mixtures
-Environmental mixtures and cardiovascular health
-Supervised and Unsupervised mixture methods
-Exposure Mixture:
-Outcome 1:
-Outcome 2:
-Outcome 3:
+Environmental mixtures and Hypertension
+Supervised and unsupervised mixture methods
+Exposure Mixture: PCBs, Organochlorines and BFR
